@@ -10,7 +10,7 @@ public class Msg
 		Singer(){
 			this.name="imNgt";
 			this.ag=20;
-			this.song="以后的以后";
+			this.song="不会再爱了";
 		}
 	}
 }
